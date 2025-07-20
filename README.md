@@ -20,12 +20,12 @@ This project replicates the look of Spotify’s web interface.
 
 
 
+---
 
-## 🌐 Live Demo
+## 🙋‍♂️ Author
 
-[Click Here to Visit](https://vishalyadav-git.github.io/spotify-clone)
-
-## 📄 License
+**Vishal Yadav**  
+📫 [yadavvishal00101@gmail.com](mailto:yadavvishal00101@gmail.com)
 
 This project is open source and free to use for educational purposes.
 
