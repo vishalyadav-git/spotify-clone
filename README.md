@@ -16,7 +16,8 @@ This project replicates the look of Spotify’s web interface.
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![UI Preview](Screenshot.png)
+
 
 
 
